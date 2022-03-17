@@ -37,3 +37,15 @@
 <p align="center">
   <img width="200" height="200" src="https://www.bennett.edu.in/wp-content/uploads/2017/11/logoPhoto-1.png">
 </p>
+
+
+#### 1. Sai Suvam Patnaik 
+#### 2. Rudransh Kush
+#### 3. Shubham Gautam
+
+# Snapshots
+
+![Iamge](https://github.com/rudransh2000/CovidAssistant/blob/main/Snapshots/2.png)
+
+
+![Image](https://github.com/rudransh2000/CovidAssistant/blob/main/Snapshots/1.png)
